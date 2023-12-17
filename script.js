@@ -51,7 +51,7 @@ async function showCssContent() {
     <p>  markup të ngjashme) nga prezantimi i dokumentit (i shkruar në CSS). Kjo ndarje lehtëson përdorimin, jep më shumë fleksibilitet dhe kontroll në specifikimin</p>
     <p>  e karakteristikave të prezentimit, dhe zvogëlon ndërlikimin dhe ripërsëritjen e përmbajtjes strukturale.</p>
     `,
-    14
+    11
   );
 
   // Enable buttons after typing
@@ -96,7 +96,7 @@ async function showDesignContent() {
     <p> vendndodhjen dhe organizimin e elementëve.Kjo mund te perdoret per tituj,paragraf,dhe teskte tjera te ndryshme .</p>
     <p> </p>
     `,
-    11
+    9
   );
 
   // Enable buttons after typing
@@ -136,7 +136,7 @@ async function showWebfaqetContent() {
     <p>---Kurse ne anen tjeter, CSS ose Cascading Style Sheets perdoren per te krijuar pamjen ose grafiken qe shihet ne webfaqe</p>
     <p> me ane te shfletuesit. Pra, me ane te CSS ne krijojme THEME ose tema te ndryshme te webfaqeve dhe e ndryshojme pamjen.</p>
     `,
-    16
+    11
   );
 
   // Enable buttons after typing
